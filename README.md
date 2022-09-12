@@ -1,4 +1,5 @@
 ### My name is Kwak woojin. I am a student in gachon university. my student number is 202235006.
+my favorite food is pizza
 
 <!--
 **rhkrdnwls/rhkrdnwls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
